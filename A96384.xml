@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the illegal proceedings and sinful doctrines of James Bedford priest of Blunsome and Earith in Huntington shire, who by many hath been esteemed eminent, and above all the priests in the Isle of Ely for his opposing the people called Quakers. This is to discover his fruits and doctrines both to rulers, priests and people ... so mark the following account, which is as it was certified from the hands of some of the sufferers hereafter mentioned, who are known to be credible and honest men.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96384</idno>
+            <idno type="STC">Wing W1895</idno>
+            <idno type="STC">ESTC R186515</idno>
+            <idno type="EEBO-CITATION">47683538</idno>
+            <idno type="OCLC">ocm 47683538</idno>
+            <idno type="VID">172995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the illegal proceedings and sinful doctrines of James Bedford priest of Blunsome and Earith in Huntington shire, who by many hath been esteemed eminent, and above all the priests in the Isle of Ely for his opposing the people called Quakers. This is to discover his fruits and doctrines both to rulers, priests and people ... so mark the following account, which is as it was certified from the hands of some of the sufferers hereafter mentioned, who are known to be credible and honest men.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.W.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, James.</term>
+               <term>Quakers --  Persecutions --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Huntingtonshire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172995:1" rendition="simple:additions"/>
+            <p>A Brief Account OF THE Illegal Proceedings and SINFUL DOCTRINES of <hi>JAMES BEDFORD</hi> Prieſt of <hi>Blunſome</hi> and <hi>Earith</hi> in <hi>Hunting<g ref="char:EOLhyphen"/>ton</hi> SHIRE, Who by many hath been eſteemed eminent, and above all the Prieſts in the Iſle of <hi>Ely</hi> for his oppoſing the People called QUAKERS.</p>
+            <p>This is to diſcover his fruits and Doctrines both to Rulers, Prieſts and peo<g ref="char:EOLhyphen"/>ple, that both Rulers, Prieſts and people may ſee the iniquity that is upheld amongſt them, and which many of the Prieſts ſtill perſiſt in; this is to diſcover to them a little of their abomination (among much more that they are found in and of the horrible and filthy thing that is committed in the Land, and in particular by <hi>James Bedford</hi> Prieſt of <hi>Blun<g ref="char:EOLhyphen"/>ſome</hi> and <hi>Earith</hi> in <hi>Huntington</hi> Shire, that ſo they that will uphold or countenance theſe Prieſts in their iniquities may be left without ex<g ref="char:EOLhyphen"/>cuſe, and they that love their ſouls may ſave themſelves from that per<g ref="char:EOLhyphen"/>verſe generation, who are deſtroyers both of bodies and ſouls for diſhoneſt gain, becauſe of whoſe iniquities the Nations deeply ſuffers and wants the true eſtabliſhment; for it is Right ouſneſſe that eſtabliſheth a Nati<g ref="char:EOLhyphen"/>on, and Iniquity that confounds and imbondageth it; So mark the fol<g ref="char:EOLhyphen"/>lowing account, which is as it was certified from the hands of ſome of the Sufferers hereafter mentioned, who are known to be credible and ho<g ref="char:EOLhyphen"/>neſt men.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons</hi> at the ſigne of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172995:2"/>
+            <pb n="3" facs="tcp:172995:2" rendition="simple:additions"/>
+            <head>
+               <hi>The ſaid Prieſt</hi> Bedford <hi>his proceedings againſt</hi> John Cranwell <hi>of</hi> Earith <hi>for the four years p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</hi> &amp;c.</head>
+            <p>THe two former years he the ſaid Prieſt <hi>Bedford</hi> came into <hi>John Cranwells</hi> f<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ld and took 4 Lambs without leave, and ſent his men for Tithe Wool at ſhear-day, but <hi>John Cranwells</hi> refuſed to give him any (becauſe he was convinced in his conſcience that Tithes now in the prieſthood of Chriſt ought not to be paid, and that it was not equity that he ſhould maintain ſuch a Miniſter as he is not taught by) where<g ref="char:EOLhyphen"/>upon the ſaid Prieſt <hi>Bedford</hi> ſent his men and unlockt <hi>John Cranwells</hi> barn door, and took away as much wool as they thought good, and alſo took away of his Hay and Corn what they would, and did caſt <hi>John Cranwell</hi> into <hi>Huntington</hi> Goal; So the Prieſt having dealt thus illegally (and as appears be<g ref="char:EOLhyphen"/>ing convicted in his conſcience of the unlawfulneſs of this his proceedings.) The two laſt years, the Prieſt ſaid he would go on Legally, in the year 1658. he did fetch a warrant for <hi>John Cranwell</hi> to bring him before two Juſtices to ſhew cauſe why <hi>John</hi> had not ſet forth his Tithe, which <hi>J C.</hi> did ſhew be<g ref="char:EOLhyphen"/>fore Juſtice <hi>Pedley</hi> and <hi>Robert Vintener,</hi> ſo after ſome words paſſed, they called three men to be ſworn; then they did ask them what Lambs and ſheep <hi>John Cranwell</hi> had that year, and what Hay and Corn, and what they did value the Tithe of them to be worth that year; and they did value it at 12 <hi>l.</hi> almoſt; but if <hi>John</hi> would pay the Prieſt, they ſaid they would abate twenty ſhillings, <hi>John</hi> told them he oweth the Prieſt nothing, nor would give him any thing; Then they ſaid they would make a warrant for fifteen pounds, which they did; And a while after Prieſt <hi>Bedford</hi> came with the Conſtable and took three Cows which was with calf, which the Conſtable ſaid was worth 15. <hi>l.</hi> alſo they took, Carts, and 4 pair of wheels which alſo was worth 15. pound, but they brought three again, and kept one of them, (<hi>viz.</hi> the beſt) worth ſix pounds, and ſo they took one and twenty pounds worth of goods for Tithes demanded but to the value
+<pb n="4" facs="tcp:172995:3"/>of twelve pounds, according to their own account. But mark how this ſaid Prieſt hath added to his Iniquity, In the year 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>59. the ſaid <hi>James Bedford</hi> the prieſt came violently with two rude fellows with him upon <hi>Iohn Cranwells</hi> ground, and the prieſt ſaid to <hi>Iohn Cranwells</hi> Son that he came for Tithe Hay, and <hi>Iohns</hi> Son diſcharged them off his fathers ground, and the Prieſt ſaid he did not care for that, he came for his dues; ſo <hi>Iohns</hi> Son whipped away their horſes (when the Prieſt would not remove them) upon which one of the Prieſts men ſwore that if he whipped away their horſes again, he would run his fork into his belly, then the Prieſt ſaid he would bear him harmleſs if it coſt him an hundred pounds, and the Prieſt then threatened to overthrow <hi>Iohn Cranwells</hi> Cart, which Cart ſtood then loaden upon <hi>Iohns</hi> own ground a little way off them; and <hi>Iohns</hi> ſon putting away the Prieſts horſes again, (notwithſtanding his and his mens threatnings) the Prieſt rode galloping, and ſtriving to make <hi>Iohn Cranwells</hi> horſes overthrow the Cart; and <hi>Iohn Cranwels</hi> Son told the Prieſt it was a ſhame for him to take away his Fathers goods in that manner; the Prieſt ſaid he could finde in his heart, if he were not a Miniſter, to come off his horſe and whip <hi>Iohn Cranwells</hi> Son; ſo the Prieſt forcibly took a<g ref="char:EOLhyphen"/>way what Hay he would.</p>
+            <p>And moreover the Prieſt his men came by night, &amp; bound up and carried away half an aker, and half another half aker of <hi>Jo. Cranwells</hi> wheat, and about the worth of another rood of wheat the Prieſt took away for ſmall Tithe, as he ſaid.</p>
+            <p>And the ſaid Prieſts men violently took away of <hi>Jo. Cran<g ref="char:EOLhyphen"/>wells</hi> Barly &amp; peaſe as much as they would, never ſetting out the Tithe, ſo that the quantity of or worth of all <hi>I.Cs.</hi> Goods which this Prieſt hath taken away cannot be certainly known, he hath taken away ſo much in ſuch an illegal &amp; fellonious manner, as all that reads this may judge, and ſee what fruits are brought forth by theſe Teachers in this Nation, who pro<g ref="char:EOLhyphen"/>feſſe to be Miniſters of the Goſpel, and to take the cure of ſouls, when thus they are found in Robbery and oppreſſing the people, and to theſe unjuſt proceedings they take the more Liberty from the Rulers not putting a ſtop to them, pretending they have the Law &amp; Government on their ſides.</p>
+            <p>
+               <hi>To all the aforeſaid wicked actings of Prieſt</hi> Bedford, <hi>thoſe whoſe
+<pb n="5" facs="tcp:172995:3"/>names are hereunto annexed, can teſtifie the truth of the ſame,</hi> Richard Catlin, Stephen Chody, Matthew Peacock, Bennet Cranwel.</p>
+            <p>And likewiſe take notice of the further Illegal proceed<g ref="char:EOLhyphen"/>ings of the ſaid <hi>James Bedford</hi> againſt <hi>Thomas Purcas</hi> of <hi>Blun<g ref="char:EOLhyphen"/>ſome;</hi> as firſt of all in the year, 1655. it ſeemed not enough for the ſaid Prieſt <hi>Bedford</hi> to caſt <hi>Thomas Purcas</hi> into priſon, but after he was forth of priſon, ſent his men to the land of the ſaid <hi>Thomas Purcas,</hi> and took away what of his Hay and Corn they would. And alſo at another time the ſaid Prieſt ſent his man into his yard, and fetcht away a Pig after a felloni<g ref="char:EOLhyphen"/>ous manner, and ſaid his Maſter would bear him harmleſſe. Moreover in the year 1658. the ſaid <hi>James Bedford</hi> caſt the ſaid <hi>Thomas Purcas</hi> into priſon again, where he continued nine weeks, and after he was forth of Priſon, he ſent his men upon the land of the ſaid <hi>Thomas Purcas,</hi> and took away from him what they would, as aforeſaid. And moreover in the year 1659. Prieſt <hi>Bedford</hi> himſelf came upon a land of the ſaid <hi>Thomas Purcas,</hi> &amp; beat off the ſaid <hi>Thomas</hi> his Team, and took away all the Grain of that Land except three Sheaves; And yet notwithſtanding all this his ſo wicked actings, his cove<g ref="char:EOLhyphen"/>touſneſſe in all this was not ſatisfied, but ſent his men to a<g ref="char:EOLhyphen"/>nother land of the ſaid <hi>Thomas,</hi> and out of ſix ſhockes took a<g ref="char:EOLhyphen"/>way five and left but one, and his ſervant <hi>Thomas Bar</hi> by force pulled away the ſheaves out of the ſaid <hi>Thomas</hi> his cart, and other of his men at ſeveral other times did the like.</p>
+            <q>To all which aforeſaid ſeveral actions done by the ſaid Prieſt and his men, there are many witneſſes can teſtifie the ſame; where<g ref="char:EOLhyphen"/>fore men may here plainly ſee what ſpirit this Prieſt <hi>Bedford</hi> is of, and in what paths he walks, even in the ſteps of the falſe pro<g ref="char:EOLhyphen"/>phets which Chriſt propheſied of, which ſhould appear in ſheeps cloathing, but inwardly ravening Wolves, as by his fruits a<g ref="char:EOLhyphen"/>foreſaid he is made manifeſt, <bibl>
+                  <hi>Mat. 7.15.</hi>
+               </bibl>
+            </q>
+            <p>And now ſeeing this ſaid Prieſt <hi>Beford</hi> hath been had in great eſteem for an eminent diſputant againſt the <hi>Quakers,</hi> and after a meeting that <hi>John Whitehead</hi> had with him at <hi>Had<g ref="char:EOLhyphen"/>nam</hi> in the <hi>Ile</hi> of <hi>Ely,</hi> Juſtice <hi>Caſtle</hi> of <hi>Hadnam</hi> did eſteem of this Prieſt <hi>Bedford</hi> above all the Prieſts in the <hi>Ile</hi> of <hi>Ely,</hi> in ſaying <hi>That he had done more (in diſputing againſt</hi> John
+<pb n="6" facs="tcp:172995:4"/>Whitehead) <hi>then any Miniſter in the</hi> Ile <hi>of</hi> Ely <hi>would have done,</hi> and ſo he ſet him above all the Prieſts in that <hi>Ile,</hi> (though his folly and confuſion was plainly manifeſt both at that meeting and other places;) Therefore take notice of ſome of the Prieſts Doctrines here, from whence the Readers hereof may eaſily judge what an ignorant com<g ref="char:EOLhyphen"/>pany of Prieſts they have in the <hi>Ile</hi> of <hi>Ely,</hi> if this Prieſt <hi>Bedford</hi> be above them all.</p>
+            <p>Pr. At the ſaid meeting, he the ſaid Prieſt <hi>Bedford</hi> deny<g ref="char:EOLhyphen"/>ed <hi>that every man is enlightned with a ſpiritual Light,</hi> and affirm<g ref="char:EOLhyphen"/>ed <hi>that the light within led men to murther,</hi> inſtancing for his proof, John 16.2. <hi>and</hi> Pauls <hi>perſecuting the Saints.</hi>
+            </p>
+            <p>
+               <hi>Anſw. Chriſt is the true Light that lighteth every man that com<g ref="char:EOLhyphen"/>eth into the World,</hi> and his light with which he enlightens e<g ref="char:EOLhyphen"/>very man is Spiritual; ſo the Prieſt in ſaying that <hi>the light within led men to murther,</hi> he hath blaſphemed againſt the Light of Chriſt, who <hi>came not deſtroy mens lives but to ſave them;</hi> and the gifts of his light or grace which he gives free<g ref="char:EOLhyphen"/>ly unto man-kinde, are of the ſame Nature that Chriſt is of from whence they flow forth, and what <hi>Paul</hi> did in perſecut<g ref="char:EOLhyphen"/>ing the Saints, he did it ignorantly and not by the light, for the light ſhewed him his tranſgreſſion in ſo doing, and they ſpoken of <hi>John</hi> 16.2. who thought they did God ſervice in killing the Saints were not led by the light, for they and their thoughts were deceived by him who was a murtherer from the beginning.</p>
+            <p>
+               <label>Pr.</label> At a meeting which was at <hi>Blunſome</hi> Steeple-houſe the fourteenth day of the twelfth moneth, where <hi>George White<g ref="char:EOLhyphen"/>head</hi> oppoſed the ſaid Prieſt <hi>Bedford,</hi> the Prieſt ſcoffed at quaking and trembling, judging it <hi>to be of the Devil,</hi> as alſo he did at falling down (as ſome have done when they were ſmitten by the power of God.)</p>
+            <p>
+               <label>Anſ.</label> Here the prieſt ſcoft at the power of God, and re<g ref="char:EOLhyphen"/>proached its work, which cauſed <hi>Moſes</hi> to quake, and <hi>Davids</hi> fleſh to tremble, and him to morne all the day long, and the word of the Lord ſaid unto <hi>Ezekiel, Son of man, eat thy bread with quaking,</hi> and <hi>Paul</hi> fell down to the earth when he was ſmitten, and he trembled, and ſaid work out your ſalva<g ref="char:EOLhyphen"/>tion with fear and trembling, and <hi>Iohn</hi> fell down at the feet
+<pb n="7" facs="tcp:172995:4"/>of Chriſt; many more examples might be ſhewn for this a<g ref="char:EOLhyphen"/>gainſt Pr. <hi>Bedfords</hi> blaſphemy, whom we ask if it was not the power of God that cauſed the Devils to tremble? Surely he is not come ſo farre as the devils were, to acknowledge the power of God, when they confeſſed to the Name of Jeſus, <hi>Eze.</hi> 12.17, 18. <hi>Acts,</hi> 9.4.6. <hi>Rev.</hi> 1.17.</p>
+            <p>
+               <label>Pr.</label> 
+               <hi>Bedford ſcoft at the Quakers ſilent meeting, and called it a Rediculous Foppery.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> So he might as well have ſcoft at <hi>Iob</hi> and his Friends for ſitting upon the ground together in ſilence ſeven dayes and ſeven nights, <hi>Iob.</hi> 2.13. <hi>ch.</hi> 3.1. And at <hi>Ezekiel,</hi> who witneſſed the like, <hi>Ezek.</hi> 3.15, 16, 17. And ſaith the Lord, keep ſilent O yee Iſlands before me, and let the People re<g ref="char:EOLhyphen"/>new their ſtrength; ſo the Prophets and Holy men of God knew a time to be ſilent and a time to ſpeak, and in ſilence they waiting renewed their ſtrength.</p>
+            <p>
+               <label>Pr.</label> 
+               <hi>Bedford much ſcoffed at going naked; Inſtancing a friends going naked in Cambridge.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> So he would have ſcoffed at the Prophet <hi>Iſays,</hi> going naked and barefoot for a ſign and a wonder, <hi>Iſa.</hi> 20. and at <hi>Sauls</hi> being naked a day and a night when the Spirit of the Lord was upon him, and therefore it was ſaid is <hi>Saul</hi> alſo a<g ref="char:EOLhyphen"/>mong the Prophets? 1 <hi>Sam.</hi> 19.23, 24. And ſome of the ſervants of the Lord in this age, have been moved to go naked, for a ſigne to thoſe whoſe ſhame and nakedneſs the Lord would diſcover, as he hath done the prieſts nakedneſs, and the Schollers of <hi>Cambridge</hi> their ſhame and filthineſs, ſince the friend went naked there.</p>
+            <p>
+               <label>Pr.</label> 
+               <hi>Affirmed that the Quakers tread under foot the word of God, in denying the Scriptures to be the Word.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> This is alſo a lie and a ſlander, for we own the Scrip<g ref="char:EOLhyphen"/>tures in their place in owning that to be the Word which they ſay is the Word, and that is God and Chriſt, who was before the Scriptures (which is the writtings) were; wherein are the words that God ſpoke, but the word was before the words or writtings were.</p>
+            <p>
+               <label>Pr.</label> 
+               <hi>Affirmed that all the Scriptures from the beginning of Gene<g ref="char:EOLhyphen"/>ſis to the end of the Revelation is the word of God, and that the Devils words are the word of God.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> So you may ſee here this prieſt makes no diſtinction
+<pb n="8" facs="tcp:172995:5"/>between the Devils words (which are in many places record<g ref="char:EOLunhyphen"/>ed in the Scripture) and the word of God, but in counting the Devils words the word of God, he would here make the Divell a Miniſter of Gods word, and here all may ſee his blaſphemy, for the Devil was a liar from the begining, as he was when he tempted the woman, and ſpoke quite contra<g ref="char:EOLhyphen"/>ry to what God had ſaid, <hi>Gen.</hi> 3.3, 4.</p>
+            <p>
+               <label>Pr.</label> 
+               <hi>That the Colledges were not built by the Papiſts, for he ſaid the Colledge at Ieruſalem was before the Papiſts were,</hi> 2 <hi>Kin</hi> 22.14.</p>
+            <p>
+               <label>Anſ.</label> See what a ſilly prieſt this is, the Colledge (ſo called) at Jeruſalem was but one, and theres no mention of any be<g ref="char:EOLhyphen"/>ing made Miniſters at it; but that <hi>Huldah</hi> a Propheteſs dwelt in that Colledge, who ſpoke the words of the Lord, ſuch a one as the prieſts will not allow to preach; but here are ma<g ref="char:EOLhyphen"/>ny Colledges in <hi>England,</hi> at <hi>Oxford</hi> and <hi>Cambridge,</hi> which this prieſt <hi>Bedford</hi> could not clear from being built by Pa<g ref="char:EOLhyphen"/>piſts. Alſo this Prieſt <hi>Bedfords</hi> deceit and lies againſt the people of God called Quakers, was taken notice of in many other things which he read in a book, as he had gathered them out of the prieſts books; and that he durſt not at all fair<g ref="char:EOLhyphen"/>ly diſpute with <hi>G. Whithead</hi> at the ſaid meeting, but filled up much of the time with vain ſtories, lyes, and ſcoffing, laugh<g ref="char:EOLhyphen"/>ing, and filthy talk not fit to be mentioned, of which many of his hearers were ſo aſhamed, till many of them cryed out againſt him, and ſome ſaid he was mad, and others asked what he was elſe but a beaſt? When he ſpoke much of a Quakers calling him a beaſt, which he was proved to be from <hi>Titus.</hi> 1.10.11, 12, 13. And thus poor people have long been led captive by ſuch prophane prieſts as this, whoſe propha<g ref="char:EOLhyphen"/>neſs is gone abroad, and will remaine upon record for future ages, by whoſe iniquities the ſoul of the Righteous is grie<g ref="char:EOLhyphen"/>ved, and this Nation greatly ſuffereth by reaſon of ſuch pro<g ref="char:EOLhyphen"/>phane Teachers, who are the Leaders that cauſe the people to erre: And how can ever a Nation be ſetled in peace, while ſuch are upheld by the Rulers to be leaders of the peo<g ref="char:EOLhyphen"/>ple as oppreſſe them, whoſe practices and principles tends to the rum both of bodies and ſoules, let the ſerious conſider it, and the people lay it to heart.</p>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
